@@ -1,0 +1,108 @@
+root = 0
+length = 7
+
+links:
+ 0|  3|  1
+ 1| -1|  2
+ 2|  4| -1
+ 3|  5|  6
+ 4| -1| -1
+ 5| -1| -1
+ 6| -1| -1
+
+data:
+0 Bill
+1 Mel
+2 Ron
+3 Ben
+4 Pete
+5 Amy
+6 Bess
+
+Does Bess belong? true
+Does George belong? false
+
+Who is the minimum? Amy
+Who is the maximum? Ron
+
+How many occurrences of Mel? 1
+Collect all occurrences of Mel? [Mel]
+
+How many occurrences of Mel? 3
+Collect all occurrences of Mel? [Mel, Mel, Mel]
+
+root = 0
+length = 11
+
+links:
+ 0|  3|  1
+ 1| -1|  2
+ 2|  4|  8
+ 3|  5|  6
+ 4|  7| -1
+ 5| -1|  9
+ 6| -1| -1
+ 7| -1| 10
+ 8| -1| -1
+ 9| -1| -1
+10| -1| -1
+
+data:
+0 Bill
+1 Mel
+2 Ron
+3 Ben
+4 Pete
+5 Amy
+6 Bess
+7 Mel
+8 Ron
+9 Amy
+10 Mel
+
+How many occurrences of Bill? 1
+How many occurrences of Mel? 3
+How many occurrences of Ron? 2
+How many occurrences of Ben? 1
+How many occurrences of Pete? 1
+How many occurrences of Amy? 2
+How many occurrences of Bess? 1
+
+root = 0
+length = 16
+
+links:
+ 0|  3|  1
+ 1| 12|  2
+ 2|  4|  8
+ 3|  5|  6
+ 4|  7| -1
+ 5| 11|  9
+ 6| -1| 15
+ 7| -1| 10
+ 8| -1| -1
+ 9| -1| -1
+10| -1| 13
+11| -1| -1
+12| 14| -1
+13| -1| -1
+14| -1| -1
+15| -1| -1
+
+data:
+0 Bill
+1 Mel
+2 Ron
+3 Ben
+4 Pete
+5 Amy
+6 Bess
+7 Mel
+8 Ron
+9 Amy
+10 Mel
+11 Aly
+12 Mandy
+13 Paul
+14 George
+15 Bette

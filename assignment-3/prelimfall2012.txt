@@ -1,0 +1,161 @@
+80.0
+6
+12
+Paul Couch
+Real Analysis I
+83.0
+Real Analysis II
+76.0
+Complex Analysis II
+74.0
+Abstract Algebra I
+65.0
+Complex Analysis I
+73.0
+Topology I
+90.0
+Angela Wilson
+Real Analysis I
+81.0
+Complex Analysis I
+86.0
+Real Analysis II
+74.0
+Abstract Algebra I
+90.0
+Differential Geometry
+96.0
+Topology I
+75.0
+Dave Bells
+Complex Analysis I
+93.0
+Complex Analysis II
+90.0
+Real Analysis I
+98.0
+Real Analysis II
+87.0
+Algebraic Topology
+69.0
+Differential Geometry
+63
+Jill Hovanko
+Real Analysis I
+82.0
+Real Analysis II
+71.0
+Complex Analysis I
+67.0
+Complex Analysis II
+65.0
+Differential Geometry
+84.0
+Topology I
+77.0
+Donnie Malko
+Complex Analysis I
+66.0
+Real Analysis II
+70.0                           
+Abstract Algebra I
+52.0
+Differential Geometry
+80.0
+Stochastic Processes I
+88.0
+Stochastic Processes II
+83.0
+Percy Problem
+Real Analysis I
+70.0
+Real Analysis II
+57.0
+Complex Analysis I
+73.0
+Abstract Algebra I
+66.0
+Abstract Algebra II
+64.0
+Topology I
+80.0
+Jon Williams
+Differential Geometry
+87.0
+Complex Analysis I
+82.0
+General Topology I
+74.0
+Algebraic Topology
+93.0
+Abstact Algebra I
+98.0
+Abstract Algebra II
+90.0
+Dario Quevedo
+Algebraic Topology
+80
+Topology I
+82
+Topology II
+81
+Abstract Algebra I
+84
+Abstract Algebra II
+80
+Differential Geometry
+81
+Reesa Leopold
+Abstract Algebra I
+82.0
+Abstract Algebra II
+80.0
+Real Analysis I
+87.0
+Real Analysis II
+80.0
+Differential Geometry
+92.0
+Topology I
+89.0
+Emilio Sotti
+Abstract Algebra I
+66.0
+Differential Geometry
+84.0
+Abstract Algebra II
+37.0
+Real Analysis I
+77.0
+Real Analysis II
+73.0
+Topology I
+87.0
+Michael Kosko
+Real Analysis I 
+98.0
+RealAnalysis II
+94.0
+Complex Analysis I
+97.0
+Complex Analysis II
+92.0
+Topology I
+93.0
+Numerical Methods I
+96.0
+Leon Kosokov
+Algebraic Geometry
+99.0
+Differential Geometry
+87.0
+Complex Analysis I
+62.0
+Complex Analysis II
+54.0
+Real Analysis I
+78.0
+Topology I
+71.0
+
+ 

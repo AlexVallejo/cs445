@@ -1,0 +1,36 @@
+PQ = []
+
+size is 0
+is list empty? true
+add: Nick
+add: Sela
+add: Milt
+add: Anne
+add: Jill
+add: Bob
+add: Jim
+add: Pam
+add: Cal
+add: Avery
+add: Edy
+add: Mel
+PQ = [Sela, Pam, Nick, Milt, Mel, Jim, Jill, Edy, Cal, Bob, Avery, Anne]
+
+size is 12
+is list empty? false
+min item is Anne
+remove it
+min item is Avery
+remove it
+min item is Bob
+remove it
+PQ = [Sela, Pam, Nick, Milt, Mel, Jim, Jill, Edy, Cal]
+
+size is 9
+add: Mike
+size is 10
+PQ = [Sela, Pam, Nick, Milt, Mike, Mel, Jim, Jill, Edy, Cal]
+
+clearing list ...
+size is 0
+PQ = []
